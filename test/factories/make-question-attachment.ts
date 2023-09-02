@@ -1,4 +1,4 @@
-import { UniqueEntityID } from "@/core/entitities/unique-entity-id";
+import { UniqueEntityID } from "@/core/entities/unique-entity-id";
 import { QuestionAttachment, QuestionAttachmentProps } from '@/domain/forum/enterprise/entities/question-attachment';
 
 export function makeQuestionAttachment(
